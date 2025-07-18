@@ -31,6 +31,3 @@ Este é um site institucional para a marcenaria Serenity, especializado em móve
 - O site é totalmente responsivo e pode ser visualizado em celulares, tablets e computadores.
 - O botão do WhatsApp abre diretamente a conversa com o número configurado.
 - O menu hamburguer fecha automaticamente ao clicar em um link.
-
-# marcenaria-site
-# marcenaria-site
